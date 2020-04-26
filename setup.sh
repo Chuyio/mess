@@ -4,12 +4,12 @@ export PATH
 clear
 
 echo "#========================================================="
-echo "# System Required: CentOS 6+/Debian 6+/Ubuntu 14.04+"
+echo "# System Required: CentOS 6/7+ Debian 6/7+ Ubuntu 14.04+"
 echo "# Description: Linux系统初始化脚本"
-echo "# Version: 2.6.0"
+echo "# Version: 3.6.0"
 echo "# Author:Chuyio"
 echo "# Date:18/06/2017"
-echo "# Blog:https://www.cnblogs.com/LuckWJL"
+echo "# Blog:https://www.cnblogs.com/chuyiwang"
 echo "# Github:https://github.com/Chuyio"
 echo "#========================================================="
 
